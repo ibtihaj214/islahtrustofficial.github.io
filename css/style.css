@@ -7744,6 +7744,7 @@ h1, h2, h3, h4, h5,
 .services h3 {
   font-size: 20px;
   margin-bottom: 20px; }
+  font-size: 20px; }
 
 .carousel-cause.owl-carousel .owl-stage-outer {
   padding-bottom: 2em;
