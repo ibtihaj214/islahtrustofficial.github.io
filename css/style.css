@@ -7761,21 +7761,20 @@ h1, h2, h3, h4, h5,
     display: block;
     height: 300px; }
   @media (min-width: 768px) {
-    .cause-entry .text {
+    .cause-entry .text:hover{
+      background-color: #6abc50;
+      opacity: 0.95;
+      color: #fff;
+    }
+   .cause-entry .text {
       margin-top: -40px !important;
-      background: #6abc50;
+      background: #fff;
       width: 90%;
       margin: 0 auto; } }
   .cause-entry .text h3 {
     margin-bottom: 20px; }
-    .cause-entry .text h3 a {
-      color: #fff; }
-      .cause-entry .text h3 a:hover {
-        color: #000000; }
 
-        .cause-entry .text p{
-          color: #fff;
-        }
+
   .cause-entry .text .custom-progress-success {
     background-color: #f2f2f2;
     height: .3rem;
