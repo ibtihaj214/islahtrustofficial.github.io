@@ -4997,6 +4997,18 @@ button.bg-danger:focus {
 .bg-light {
   background-color: #f8f9fa !important; }
 
+.bg-darker{
+    background-color: #E2F6CA;
+}
+
+.bg-part1{
+  background-color: #D2E0FB;
+}
+
+.bg-part3{
+  background-color: #F8FDCF;
+}
+
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
@@ -6047,6 +6059,8 @@ button.bg-dark:focus {
 .shadow-lg {
   -webkit-box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
   box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important; }
+
+
 
 .shadow-none {
   -webkit-box-shadow: none !important;
@@ -7296,7 +7310,7 @@ a {
   color: #000; }
   a:hover {
     text-decoration: none;
-    color: #71ff44; }
+    color: #DSF591; }
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
