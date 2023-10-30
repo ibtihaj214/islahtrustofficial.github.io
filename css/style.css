@@ -7331,7 +7331,7 @@ h1, h2, h3, h4, h5,
   top: 10px; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
-      background: #525888 !important;
+      background: #265f04 !important;
       top: 0;
       position: relative; } }
   .ftco-navbar-light .navbar-brand {
@@ -7898,7 +7898,7 @@ h1, h2, h3, h4, h5,
     -ms-transition: all 0.3s ease;
     transition: all 0.3s ease; }
     .gallery .icon span {
-      color: #f86f2d; }
+      color: #6abc50; }
   .gallery:hover .icon {
     opacity: 1; }
   .gallery:hover:after {
