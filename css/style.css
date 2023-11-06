@@ -4998,16 +4998,40 @@ button.bg-danger:focus {
   background-color: #f8f9fa !important; }
 
 .bg-darker{
-    background-color: #E2F6CA;
+  background-color: #fff;
 }
 
 .bg-part1{
-  background-color: #D2E0FB;
+  background-color: #fff;
+}
+
+.bg-part2{
+  background-color: #fff;
 }
 
 .bg-part3{
-  background-color: #F8FDCF;
+  background-color: #eece4c;
 }
+
+.bg-ppart1{
+  background-color: #efc9a1;
+}
+
+.bg-ppart2{
+  background-color: #bff47b;
+}
+
+.bg-ppart3{
+  background-color: #00d3ff;
+}
+
+.bg-ppart4{
+  background-color: #d51c3f;
+}
+
+/* .bg-part3{
+  background-image: url(images/bg_7.jpg);
+} */
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
