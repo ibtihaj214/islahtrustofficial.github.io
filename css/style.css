@@ -5002,7 +5002,7 @@ button.bg-danger:focus {
 }
 
 .bg-part1{
-  background-color: #fff;
+  background: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
 }
 
 .bg-part2{
@@ -5010,23 +5010,23 @@ button.bg-danger:focus {
 }
 
 .bg-part3{
-  background-color: #eece4c;
+  background: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
 }
 
 .bg-ppart1{
-  background-color: #efc9a1;
+  background-color: #fff;
 }
 
 .bg-ppart2{
-  background-color: #bff47b;
+  background-color: #fff;
 }
 
 .bg-ppart3{
-  background-color: #00d3ff;
+  background-color: #fff;
 }
 
 .bg-ppart4{
-  background-color: #d51c3f;
+  background-color: #fff;
 }
 
 /* .bg-part3{
