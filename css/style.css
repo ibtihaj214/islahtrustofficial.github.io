@@ -5002,7 +5002,7 @@ button.bg-danger:focus {
 }
 
 .bg-part1{
-  background: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
+  background-color: #9ee37d;
 }
 
 .bg-part2{
@@ -5010,7 +5010,7 @@ button.bg-danger:focus {
 }
 
 .bg-part3{
-  background: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
+  background-color: #ffcb88;
 }
 
 .bg-ppart1{
@@ -5018,7 +5018,7 @@ button.bg-danger:focus {
 }
 
 .bg-ppart2{
-  background-color: #fff;
+  background-color:  #9ee37d;
 }
 
 .bg-ppart3{
@@ -5026,7 +5026,7 @@ button.bg-danger:focus {
 }
 
 .bg-ppart4{
-  background-color: #fff;
+  background-color: #ffcb88;
 }
 
 /* .bg-part3{
